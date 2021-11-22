@@ -1,1 +1,1 @@
-# Fighting-Game-by-Computer-Graphics
+#Game-by-Computer-Graphics
